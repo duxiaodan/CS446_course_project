@@ -6,4 +6,6 @@ All required data is included in this repository.
 
 Details of the project can be found in the image file.
 
-![project guidelines](1\ 1\ Project\ Supervised\ Image\ super\ resolution\ and\ denoising\ Project\ RELATE.png?raw=true "Title")
+![project guidelines](
+        CS446_course_project/guidelines.png
+      ?raw=true "Title")
