@@ -7,5 +7,5 @@ All required data is included in this repository.
 Details of the project can be found in the image file.
 
 ![project guidelines](
-        CS446_course_project/guidelines.png
+        https://github.com/duxiaodan/CS446_course_project/blob/master/guidelines.png
       ?raw=true "Title")
